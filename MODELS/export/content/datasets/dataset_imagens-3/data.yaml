@@ -1,0 +1,7 @@
+names:
+- cachorro
+- gato
+- raposa
+nc: 3
+train: /content/datasets/dataset_imagens-3/train/images
+val: /content/datasets/dataset_imagens-3/valid/images
